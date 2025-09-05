@@ -6,7 +6,7 @@
       "id": "mf6c1j9m",
       "nama": "cewe buat open bo",
       "target": 300000,
-      "total": 1010,
+      "total": 1001010,
       "history": [
         {
           "type": "add",
@@ -19,6 +19,12 @@
           "amount": 1000,
           "note": "semngat ngewe",
           "date": 1757046395877
+        },
+        {
+          "type": "add",
+          "amount": 1000000,
+          "note": "hidup ngewe",
+          "date": 1757046413844
         }
       ]
     }
